@@ -1,4 +1,4 @@
-module github.com/caddyserver/circuitbreaker
+module github.com/mage1k99/circuitbreaker
 
 go 1.14
 
